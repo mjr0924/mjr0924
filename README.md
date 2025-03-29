@@ -11,7 +11,7 @@ Passionate about performance optimization, clean code architecture, and staying 
 * ✉️  You can contact me at [mjr0924@gmail.com](mailto:mjr0924@gmail.com)
 * 🧠  I'm learning Reactjs And Next.js
 
-<a href="https://www.twitter.com/mjr0924" target="_blank" rel="noreferrer"><img
+<a href="https://www.x.com/mjr0924" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mjr0924?logo=twitter&style=for-the-badge&color=0891b2&labelColor=171717"
 /></a><a href="https://www.github.com/mjr0924" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mjr0924?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a>
