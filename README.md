@@ -1,11 +1,10 @@
-Hi 🖐️ My name is Mohammad Javad Rezaei
+Hi 🖐️ My name is MOHAMMAD JAVAD REZAEI
 ======================================
 
-Front End Developer (React.js)
+Front-End Developer (React.js)
 --------------------------------
 
-Front-End Developer with expertise in React.js, JavaScript (ES6+), and Tailwind CSS, specializing in building high-performance, scalable, and responsive web applications. Experienced in optimizing UI/UX for enhanced user engagement, reducing load times, and improving accessibility. Proficient in integrating RESTful APIs, managing state efficiently, and implementing best practices in modern web development. 
-Passionate about performance optimization, clean code architecture, and staying up-to-date with the latest web technologies. Adept at working in agile environments and collaborating with cross-functional teams to deliver seamless digital experiences.
+Front-End Developer with 3+ years of professional experience specializing in building high-performance, scalable, and responsive web applications using React.js, JavaScript (ES6+), and Tailwind CSS. Proven success in optimizing UI/UX to enhance user engagement by up to 20%, and reducing load times by 15%. Skilled in integrating RESTful APIs, architecting maintainable front-end structures, and developing pixel-perfect websites for corporate, educational, and marketplace platforms. Passionate about performance optimization, clean code architecture, and staying current with the latest web technologies. Adept at thriving in agile environments and collaborating with cross-functional teams to deliver impactful digital products.
 
 * 🌍  I'm based in Mashhad
 * ✉️  You can contact me at [mjr0924@gmail.com](mailto:mjr0924@gmail.com)
